@@ -1,2 +1,2 @@
 this is a text file1
-new line here
+new line here. this line is modified in second commit
